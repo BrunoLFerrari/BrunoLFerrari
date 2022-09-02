@@ -1,6 +1,7 @@
 ### Olá, Eu sou o Bruno Ferrari 👋
 
-- 🌱 Atualmente estou aprendendo Python
+- 🌱 Atualmente desenvolvendo em Java
+- 🖱 Principais linguagens: Python e Java.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🚀 Movido a desafios!
 
