@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Bruno Ferrari 👋
 
 - 🌱 Atualmente desenvolvendo em Java
-- 🖱 Principais linguagens: Python e Java.
+- 🖱 Principais linguagens: C, Python, Java, HTML, CSS, JavaScript
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🚀 Movido a desafios!
 
